@@ -2,7 +2,7 @@
 name = "specsnakez"
 version = "0.1.0"
 description = ""
-authors = ["Florian-David Lange <florian-david.lange@smartlab-solutions.de>"]
+authors = ["Florian-David Lange <floriandavid.lange@web.de"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
