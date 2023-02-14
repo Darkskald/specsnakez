@@ -1,0 +1,29 @@
+font.size : 16
+font.family : helvetica
+
+# fig
+# figure.figsize : 10.0, 5.0
+figure.subplot.bottom : 0.14
+
+# axes
+axes.titlesize : 12
+axes.labelsize : 10
+axes.labelweight : normal
+axes.linewidth : 2
+axes.labelpad : 8
+axes.formatter.limits : -3, 4
+
+lines.linewidth : 1.5
+lines.markersize : 5
+
+# ticks
+xtick.labelsize : 12
+ytick.labelsize : 12
+xtick.minor.visible : True
+ytick.minor.visible : True
+xtick.major.size : 5
+ytick.major.size : 5
+
+
+legend.frameon : True
+legend.fontsize: xx-small
